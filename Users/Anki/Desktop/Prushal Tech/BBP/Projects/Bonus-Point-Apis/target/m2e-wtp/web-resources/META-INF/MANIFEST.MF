@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Bonus-Point-Apis
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Anki
+Implementation-Vendor-Id: com.bonuspoint.apis
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Bonus-Point-Apis
+Created-By: Maven Integration for Eclipse
+
