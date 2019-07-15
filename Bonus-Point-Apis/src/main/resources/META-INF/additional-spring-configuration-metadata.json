@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "file.upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload-dir'"
+  },
+  {
+    "name": "key.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'key.auth'"
+  },
+  {
+    "name": "sms.baseurl",
+    "type": "java.lang.String",
+    "description": "A description for 'sms.baseurl'"
+  },
+  {
+    "name": "sms.username",
+    "type": "java.lang.String",
+    "description": "A description for 'sms.username'"
+  },
+  {
+    "name": "sms.password",
+    "type": "java.lang.String",
+    "description": "A description for 'sms.password'"
+  },
+  {
+    "name": "sms.sendername",
+    "type": "java.lang.String",
+    "description": "A description for 'sms.sendername'"
+  }
+]}
